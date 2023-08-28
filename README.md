@@ -19,6 +19,7 @@
     <li><strong>JavaScript Enabler</strong>: Whether it's frontend or backend, JavaScript's interactivity fascinates me. I leverage its power to build dynamic and engaging web applications.</li>
     <li><strong>Linux Server Whisperer</strong>: From server setup to optimization and maintenance, I've immersed myself in the world of Linux server management, ensuring stable and secure operations.</li>
     <li><strong>Networking Navigator</strong>: Navigating networking challenges is a passion of mine. I excel in troubleshooting networking issues and ensuring uninterrupted connectivity.</li>
+    <li><strong>Debugging Detective:</strong> Debugging is a puzzle that I love to solve. Identifying issues and optimizing code for efficiency are challenges I embrace. I believe every bug is an opportunity to learn and improve.</li>
 </ul>
 
 <h2>ChatZenith Project</h2>
