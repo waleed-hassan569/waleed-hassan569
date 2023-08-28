@@ -25,7 +25,7 @@
 <p>A significant highlight of my journey has been my contribution to the <strong>ChatZenith</strong> project. In this endeavor, I undertook the roles of a backend developer and security analyst. My proficiency in Python, backend development, and security analysis came into play, resulting in a seamless and secure chat application. I ensured real-time messaging, robust security measures, and a responsive design. Collaborating closely with Adnan429, the frontend developer, we brought ChatZenith to life, seamlessly merging technology and human connection.</p>
 
 <h2>Let's Connect!</h2>
-<p>I'm always excited to connect with fellow developers, tech enthusiasts, and potential collaborators. Whether it's discussing emerging tech trends, sharing experiences, or exploring potential projects, I'm just a message away. Join me on <a href="https://www.linkedin.com/in/waleed-hassan/">LinkedIn</a> and <a href="https://twitter.com/waleedhassan256">Twitter</a>. Feel free to explore my projects and contributions right here on GitHub. Together, let's dive into the endless opportunities that technology offers!</p>
+<p>I'm always excited to connect with fellow developers, tech enthusiasts, and potential collaborators. Whether it's discussing emerging tech trends, sharing experiences, or exploring potential projects, I'm just a message away. Feel free to explore my projects and contributions right here on GitHub. Together, let's dive into the endless opportunities that technology offers!</p>
 
 <p>Here's to coding, learning, and innovating,<br>Waleed Hassan</p>
 
