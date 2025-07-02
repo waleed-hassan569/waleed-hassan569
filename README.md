@@ -1,21 +1,67 @@
-# 💫 About Me:
-👋 Hi there!<br>I'm a dedicated IT professional with CompTIA A+, Network+ and Security+ certifications and extensive expertise as a CSIS. I have a comprehensive understanding of Linux and Windows systems, which supports my work in cybersecurity, penetration testing, and red teaming.<br><br>Programming Skills:<br><br>Proficient in Python, Java, C, and C++.<br><br>Working knowledge of JavaScript for versatile application.<br><br><br>🎓 Currently, I'm preparing for the eJPTv2 certification to deepen my cybersecurity skills and stay ahead in the field.<br><br>Let’s connect—I'm always open to collaborative security and development projects!<br><br>
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/waleedhassan569) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=plastic&logo=digitalOcean&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Linode](https://img.shields.io/badge/linode-00A95C?style=plastic&logo=linode&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=plastic&logo=splunk&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=plastic&logo=Raspberry-Pi) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=plastic&logo=amd&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=plastic) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=plastic&logo=nVIDIA&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=NoobH4ck3r&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=NoobH4ck3r&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NoobH4ck3r&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+<h1 align="center">Hi 👋, I'm Waleed Hassan</h1>
+<h3 align="center">A passionate cybersecurity learner and aspiring penetration tester</h3>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=NoobH4ck3r&icon=10&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+
+I'm a self-driven cybersecurity enthusiast actively working toward becoming a professional penetration tester.
+
+🔐 **Certifications earned:**
+- 🛡️ CompTIA **A+**, **Network+**, **Security+**
+- 🕵️ INE’s **eJPTv2** – Junior Penetration Tester
+- ☁️ **ICCA** – INE Certified Cloud Associate
+
+🎯 **Current Goal:** Preparing for the **PT1 (Pentester Pathway 1)** certification by TryHackMe — expanding red teaming and offensive security skills through hands-on simulation labs.
+
+---
+
+## 👨‍💻 Programming & Scripting
+
+- 💡 Proficient: `Python`, `C`, `C++`, `Java`  
+- 🌱 Working Knowledge: `JavaScript`, `Bash`
+
+---
+
+## ⚙️ Tech & Tools
+
+- **Operating Systems**: Windows, Linux  
+- **Cloud Platforms**: AWS, GCP, DigitalOcean, Linode  
+- **Security Tools**: Nmap, Burp Suite, Wireshark, Metasploit, Hydra, Nessus, Splunk  
+- **Infrastructure & Databases**: Apache, Nginx, MariaDB, MySQL, MongoDB, SQLite, Cisco  
+- **Other**: GitHub, GitLab, WordPress, Raspberry Pi
+
+---
+
+## 🚀 Current Focus
+
+- 🧠 Red Teaming & Pentesting Labs (TryHackMe, Hack The Box, INE)  
+- 🛠️ Exploitation, enumeration, and vulnerability assessment  
+- 📝 Writing reports, documenting findings, and developing a red team mindset
+
+---
+
+## 📫 Let’s Connect
+
+Feel free to reach out or collaborate on security, ethical hacking, or automation-related projects.
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/waleedhassan569)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/waleedhassan569)
+
+
+---
+
+## 🧪 TryHackMe Progress
+[<img src="https://tryhackme-badges.s3.amazonaws.com/waleedhassan569.png" alt="TryHackMe Badge" />](https://tryhackme.com/p/waleedhassan569)
+
+---
+
+## ✍️ Dev Quote
+> _"Security is not a product, but a process."_ – **Bruce Schneier**
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=waleed-hassan569&label=Profile%20Views&icon=0&pretty=true)](https://visitcount.itsvg.in)
+
+
+
