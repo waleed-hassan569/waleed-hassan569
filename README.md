@@ -52,7 +52,7 @@ Feel free to reach out or collaborate on security, ethical hacking, or automatio
 ---
 
 ## 🧪 TryHackMe Progress
-[<img src="https://tryhackme-badges.s3.amazonaws.com/waleedhassan569.png" alt="TryHackMe Badge" />](https://tryhackme.com/p/waleedhassan569)
+[<img src="https://tryhackme-badges.s3.amazonaws.com/waleedhassan569.png" alt="Your Badge Image" />](https://tryhackme.com/p/waleedhassan569)
 
 ---
 
